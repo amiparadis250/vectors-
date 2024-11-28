@@ -102,9 +102,13 @@ g++ -std=c++11 library_management.cpp -o library_system
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit pull requests with your enhancements.
+
+## License
+
+[Specify your license here - e.g., MIT, GPL]
+
 ## Author
 
-`
-*ISHIMWE Ami Paradis
-*University Of Rwanda
-*Computer and Software Engineering`
+* ISHIMWE Ami Paradis
+* University Of Rwanda
+* Computer and Software Engineering
